@@ -1,0 +1,5 @@
+package Day10Task;
+
+public interface TeamManagement {
+
+}
